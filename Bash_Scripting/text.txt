@@ -1,0 +1,4 @@
+Learning bash scripting
+Hello there, this simple text file!
+I don't like this so, 
+have a good day
